@@ -1,0 +1,16 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #900C3F;
+}
+
+body {
+  width: 600px;
+  margin: 10px auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  background-color: #DAF7A6
+}
+
+h1 {
+  text-align: center; 
+}
